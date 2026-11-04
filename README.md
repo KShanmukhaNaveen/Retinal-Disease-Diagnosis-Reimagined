@@ -1,7 +1,24 @@
-# Link to Conference Paper published at IEEE Xplore
-**https://ieeexplore.ieee.org/document/10434083**
+# Retinal Disease Diagnosis Reimagined
 
-# OCT-AND-EYE-FUNDUS-DATASET
+**A Deep Transfer Learning and Multi-Scale Attention Network Algorithm for Precision Ophthalmology**
+
+**Published:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10434083)
+
+Research internship at IIITDM Kancheepuram (May–Jul 2023). Deep learning on clinical eye fundus and OCT scans to classify diabetic retinopathy, then detect diabetic macular edema and highlight affected retinal regions to support ophthalmologist screening.
+
+## Repository contents
+
+| File / folder | What it is |
+| --- | --- |
+| `IEEE_paper.pdf` | Published paper |
+| `Colab Notebooks/` | Model notebooks for fundus and OCT images (multi-scale attention networks, VGG16/Inception/ResNet transfer learning) |
+| `IIIT-PAPER-FUNDUS-RESULTS.docx`, `IIIT-PAPER-OCT-RESULTS.docx` | Experiment results |
+| `Presentation_DL.pptx` | Project presentation |
+| `risc_report.pdf` | RISC report |
+| `RISC_certificate.pdf` | RISC certificate |
+| `OCT-AND-EYE-FUNDUS-DATASET/` | Dataset (described below) |
+
+## Dataset: OCT and Eye Fundus
 Dataset of eye fundus and OCT images for the study of diabetic macular edema and diabetic retinopathy
 
 The dataset is composed by 1548 Eye Fundus images and 1113 Macular Optical Coherence Tomography (OCT) images taken between 2015 and 2022, thanks to CONACYT CF-2019-1759 grant, PAPIIT IN 205420, IMO (Instituto Mexicano de Oftalmología), APEC (Asociación Para Evitar la Ceguera) and INDEREB (Instituto de la Retina del Bajío). 
